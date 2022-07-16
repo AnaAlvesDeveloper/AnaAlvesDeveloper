@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnaAlvesDeveloper
+- 👀 I’m interested in technology, philosophy, psychology and music
+- 🌱 I’m currently learning programming and software engeenering basic concepts
+- 📫 How to reach me: analuisacunhaalves1@gmail.com
